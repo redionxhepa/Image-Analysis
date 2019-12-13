@@ -1,3 +1,3 @@
 # Image-Analysis
-Assignments and Project
+Final Project of the course
 
