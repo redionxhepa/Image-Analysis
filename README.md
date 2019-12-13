@@ -1,3 +1,11 @@
 # Image-Analysis
-Final Project of the course
+This project is performed by: 
+
+Redion Xhepa
+Rümeyza Dinçer
+Selim Fırat Yılmaz
+
+We used extract_boundary_boxes.mat for extracting candidate windows for test set.
+
+Please use main.ipynb to see the pipeline of our project. 
 
